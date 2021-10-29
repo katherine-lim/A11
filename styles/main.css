@@ -51,7 +51,8 @@ main h1 {
 	border-radius: 5px;
 	padding-top: .3em;
 	padding-bottom: .3em;
-	box-shadow: 3px 3px black;
+	padding-left: 1em;
+	box-shadow: 4px 4px black;
 }
 main h2 {
 	font-size: 130%;
